@@ -22,3 +22,6 @@ them as unwitting lab rats.
 Special thanks to Tynia (EU Realm: Die Silberne Hand) for the German
 translation. Some initial work on it was also done by "Mephir". Many thanks.
 Thanks to Florian Dupret (Grimal) for the French translation.
+
+Thanks to Agulot for assisting in the WotLK version as well as testing for 
+Season of Discovery.
